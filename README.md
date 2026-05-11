@@ -8,3 +8,7 @@ $ all
 ```sh
 aset
 ```
+```bash
+# $
+npm install
+```
