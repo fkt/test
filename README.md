@@ -5,6 +5,6 @@
 $ all
 ```
 
-```shell
-$ aset
+```sh
+aset
 ```
